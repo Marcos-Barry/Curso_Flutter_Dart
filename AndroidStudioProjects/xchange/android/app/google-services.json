@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778256654221",
+    "project_id": "xchange-app-15a5a",
+    "storage_bucket": "xchange-app-15a5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778256654221:android:ac1c1a707f86900199a7c4",
+        "android_client_info": {
+          "package_name": "com.devrosario.xchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778256654221-433848ash4dr4o92jca7iav3hbjq0a75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEFMyTGNuE5jRd96_2Hg8-dGsQ2XoqyTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778256654221-433848ash4dr4o92jca7iav3hbjq0a75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
